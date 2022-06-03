@@ -4272,6 +4272,11 @@ opener@^1.5.2:
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
   integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
+openseadragon@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/openseadragon/-/openseadragon-3.0.0.tgz#efaf47514eac24637e27482217d2e9fc3a3441de"
+  integrity sha512-IIl90uMZ8mi+W4IWJ0W6/xyz2SCcHeEMT6U5dcAN7UYJYAXWLYbmu3diWzoz4KE0JvMXbXC5wjRoACdTVrgaog==
+
 optionator@^0.9.1:
   version "0.9.1"
   resolved "https://registry.yarnpkg.com/optionator/-/optionator-0.9.1.tgz#4f236a6373dae0566a6d43e1326674f50c291499"
@@ -5671,6 +5676,11 @@ vue-loader@^17.0.0:
     chalk "^4.1.0"
     hash-sum "^2.0.0"
     loader-utils "^2.0.0"
+
+vue-openseadragon@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/vue-openseadragon/-/vue-openseadragon-0.1.2.tgz#2c1101af6f21894ae8203ef9bdc0e7a004ac970a"
+  integrity sha512-yDJiqFcgkzOJHLOk/gT/u63AOMBfuy7zn2n2iH824vNfBJYE2KUy8qzBwrnrs5U/zcn+KJET1oxmW5xwVA2zNw==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.3:
   version "4.1.3"
