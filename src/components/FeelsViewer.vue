@@ -21,7 +21,7 @@ export default {
       var ts = {
         Image: {
           xmlns: "http://schemas.microsoft.com/deepzoom/2008",
-          Url: "/default-dzi-woj1.1_files/", //'/dzsave-test-wish_files/',
+          Url: "/dzi/default-dzi-woj1.1_files/", //'/dzsave-test-wish_files/',
           Format: "jpeg",
           Overlap: "1",
           TileSize: "256",
